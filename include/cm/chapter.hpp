@@ -29,7 +29,7 @@ namespace cm
         int difficulty;
         ftxui::Component entry;
 
-        chapter(const std::string &t = "No title", int d = -1)
+        Chapter(const std::string &t = "No title", int d = -1)
         {
             title = t;
             difficulty = d;

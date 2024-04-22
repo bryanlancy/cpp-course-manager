@@ -12,7 +12,7 @@ namespace cm
     private:
         /* data */
     public:
-        course_manager(/* args */){};
+        CourseManager(/* args */){};
     };
 }
 
