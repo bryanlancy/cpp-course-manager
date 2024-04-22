@@ -7,7 +7,7 @@
 
 namespace cm
 {
-    class course_manager
+    class CourseManager
     {
     private:
         /* data */

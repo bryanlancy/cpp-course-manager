@@ -3,7 +3,7 @@
 
 namespace cm
 {
-    class lesson
+    class Lesson
     {
     public:
     };

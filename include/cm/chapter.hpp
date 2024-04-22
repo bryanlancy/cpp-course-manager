@@ -22,7 +22,7 @@ ftxui::MenuEntryOption Colored(ftxui::Color c)
 
 namespace cm
 {
-    class chapter
+    class Chapter
     {
     public:
         std::string title;
