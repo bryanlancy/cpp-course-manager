@@ -10,9 +10,10 @@ namespace cm
     class CourseManager
     {
     private:
-        /* data */
+        std::vector<cm::Chapter> chapters;
+
     public:
-        CourseManager(/* args */){};
+        CourseManager(std::string cn, std::vector << pair < std::string, int >> ch){};
     };
 }
 
