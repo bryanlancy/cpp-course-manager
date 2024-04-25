@@ -1,6 +1,7 @@
 #include "cm/course_manager.hpp"
 #include <gtest/gtest.h>
 
+// TODO Add testing to project
 TEST(CreateCMTest, TestIntegerOne_One)
 {
     // const auto expected = 1;
