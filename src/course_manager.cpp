@@ -25,7 +25,7 @@ namespace cm
         };
 
         // Create vector of MenyEntry from chapters for use with FTXUI Menu
-        ftxui::Components get_chapters_as_entries(const std::vector<cm::Chapter> &chapters)
+        ftxui::Components get_chapters_as_entries()
         {
             ftxui::Components components = {};
 
