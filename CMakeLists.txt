@@ -112,3 +112,6 @@ install(FILES
     "${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}ConfigVersion.cmake"
     DESTINATION cmake
 )
+
+enable_testing()
+# add_subdirectory(tests)
