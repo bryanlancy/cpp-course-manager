@@ -14,6 +14,7 @@ namespace cm
 
     public:
         CourseManager(std::string cn, std::vector << pair < std::string, int >> ch){};
+        ftxui::Components get_chapters_as_entries(const std::vector<cm::Chapter> &chapters) {}
     };
 }
 
